@@ -380,3 +380,4 @@ Create a `config.h` file in the `include` directory with the following settings:
 ## Closing
 
 This project showcases a complete IoT solution for smart farming, integrating hardware, software, and cloud services. It is designed for scalability and adaptability to various agricultural scenarios. Contributions and improvements are welcome!
+
